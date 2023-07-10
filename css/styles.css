@@ -1,7 +1,7 @@
 :root {
-  --primary: #ff80c6;
-  --secondary: #95989a;
-  --text-color: #fff;
+  --primary: #fd8f45c7;
+  --secondary: #96d5ff79;
+  --text-color: #ffffff;
   --text-secondary: #000;
   --text-tertiary: #5d5d5d;
 }
@@ -78,7 +78,6 @@
 }
 
 .form-group label {
-  color: var(--text-tertiary);
   margin-bottom: 0.3em;
   font-weight: bold;
 }
@@ -92,8 +91,8 @@
 }
 
 .btn {
-  background-color: var(--primary);
-  color: var(--text-color);
+  background-color: #2e2c2c;
+  color: #eeeeee;
   text-transform: uppercase;
   width: 100%;
   padding: 12px;
