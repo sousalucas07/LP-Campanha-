@@ -1,5 +1,5 @@
 :root {
-  --primary: #e9b491a2;
+  --primary: #f76300ea;
   --secondary: #96d5ff9d;
   --text-color: #ffffff;
   --text-secondary: #00000086;
@@ -66,7 +66,7 @@
 
 #subscription-form p {
   font-size: 1.5em;
-  color: var(--text-secondary);
+  color: var(--text-color);
   margin-bottom: 1em;
 }
 
@@ -325,10 +325,10 @@
   }
 
   #subscription-form {
-    margin-top: 15rem;
+    margin-top: 8rem;
     max-width: 70%;
     margin-bottom: 2em;
-    background-color: #96d5ff46;
+    background-color: #96d5ff27;
   }
 
   /* Benefits section */
