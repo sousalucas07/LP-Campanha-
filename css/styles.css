@@ -270,6 +270,7 @@
   font-size: 1.2em;
   color: var(--text-color);
   background-color: var(--secondary);
+  text-decoration: none;
 }
 
 /* Footer */
